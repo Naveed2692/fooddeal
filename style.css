@@ -1,8 +1,18 @@
 body{
     background-color: aqua;
 }
-#Home , a {
+.home , a {
  
     color:blueviolet;
-    font-size: 30px;
+  
+}
+hr{
+    margin-bottom: -20px;
+}
+.hr1{
+    margin-bottom: 10px;
+}
+.types{
+    background-color: red;
+    text-align: center;
 }
